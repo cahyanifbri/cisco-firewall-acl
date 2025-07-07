@@ -10,7 +10,7 @@ Repo ini berisi dokumentasi 3 praktik konfigurasi firewall berbasis Access Contr
 3. 🔸 **Extended ACL HTTP** — Hanya PC1 yang boleh akses web
 
 📄 Lihat detail di:  
-[`docs/Firewall Cisco Packet Tracer.docx`](./docs/Firewall%20Cisco%20Packet%20Tracer.docx)
+Firewall Cisco Packet Tracer.docx
 
 ## 🖥️ Tools
 
